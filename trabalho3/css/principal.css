@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    body{
+        background: black url(../img/backgroundLogin.webp) no-repeat;
+        background-size: cover;
+    }
+    h1{
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
